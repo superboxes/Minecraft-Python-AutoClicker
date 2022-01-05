@@ -1,11 +1,7 @@
 """
-Created by NEWE
-Telegram : https://t.me/MondialMarketplace0
-31/05/2021
-"""
-"""
 GUI is made by SuperBoxes
 Discord: bimbalas#9412
+2021/05/01
 """
 
 import keyboard
@@ -16,10 +12,10 @@ from tkinter import *
 from tkinter import messagebox
 
 
-def autoclicker(k, c):
+def autoclicker(k, c): ## AutoClicker function
     while True:
         if keyboard.is_pressed(k):
-            randomInt = float(random.uniform(0.01, 0.06))
+            randomInt = float(random.uniform(0.01, 0.06)) ## randomization
             mouse.click('left')
             SSS = c + randomInt
             time.sleep(SSS)
@@ -58,7 +54,8 @@ def Submit(): ## Here goes the user after pressing the button!
 init(convert=True)
 
 window = Tk()
-window.title("Autocliker by NEMU") ## window title
+window.title("AutoClicker by SuperBoxes(bimbalas#9412") ## window title
+
 Label(window, text="AutoClicker", font=("Comic Sans MS", '20'), fg="green").grid(row=0, column=1)
 label = Label(window, text="Key: ", font=("Arial", '20', "bold"))
 label.grid(row=1, column=0)
