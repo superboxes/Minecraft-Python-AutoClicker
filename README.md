@@ -1,3 +1,5 @@
+DOESN'T WORK! WILL FIX SOON!
+
 Minecraft Autoclicker
 Made By SuperBoxes
 
