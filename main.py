@@ -15,13 +15,17 @@ from colorama import init, Fore
 from tkinter import *
 from tkinter import messagebox
 
+
 def autoclicker(k, c):
     while True:
-        randomInt = float(random.uniform(0.01, 0.06))
-        keyboard.wait(k)
-        mouse.click('left')
-        SSS = c + randomInt
-        time.sleep(SSS)
+        if keyboard.is_pressed(k):
+            randomInt = float(random.uniform(0.01, 0.06))
+            mouse.click('left')
+            SSS = c + randomInt
+            time.sleep(SSS)
+        else:
+            pass
+
 
 
 
