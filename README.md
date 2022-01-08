@@ -12,4 +12,10 @@ Features:
 This probably wont get you banned on a cps 10-15. Tested it on my main, havent got banned yet, Lunar and Hypixel, remember, use at your own risk!. Enjoy!
 
 
-More info on cps:
+Delay to cps:
+0.05 = 10 cps
+0.04 = 12 cps
+0.03 = 13 cps
+0.02 = 15-16 cps
+0.01 = 19 cps
+0 = 22-23 cps
