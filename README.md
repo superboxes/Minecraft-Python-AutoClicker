@@ -9,7 +9,7 @@ Features:
 2. Delay (cps)
 3. Randomization
 
-This probably wont get you banned on a cps 10-15. Tested it on my main, havent got banned yet, Lunar and Hypixel, remember, use at your own risk!. Enjoy!
+This probably wont get you banned on a cps 10-15. Used it on my main, havent got banned yet, Lunar and Hypixel, remember, use at your own risk!. Enjoy!
 
 
 Delay to cps:
