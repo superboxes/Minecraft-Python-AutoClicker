@@ -3,5 +3,10 @@ Made By SuperBoxes
 
 Ideal delay is: 0.03
 
-This is just a simple autoclicker made by NEWE, but improved by SuperBoxes. What I mean by improved is: added GUI, added randomization.
-Pretty sure this wont get you banned, but use at your own risk!
+This is just a simple autoclicker made by SuperBoxes.
+Features:
+1. AutoClicker
+2. Delay (cps)
+3. Randomization
+
+This probably wont get you banned on a cps 10-15. Tested it on my main, havent got banned yet, Lunar and Hypixel, remember, use at your own risk!. Enjoy!
