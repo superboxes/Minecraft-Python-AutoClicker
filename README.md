@@ -5,7 +5,7 @@ Ideal delay is: 0.03 (0.02 if you're risky)
 
 This is just a simple autoclicker made by SuperBoxes.
 Features:
-1. AutoClicker
+1. AutoClicker (left and right mouse buttons)
 2. Delay (cps)
 3. Randomization
 
