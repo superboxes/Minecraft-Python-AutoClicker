@@ -1,3 +1,5 @@
+This will not be updated cuz I was stupid and lost source code.
+
 Minecraft Autoclicker
 Made By SuperBoxes
 
